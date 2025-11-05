@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Dashboard – Business Insights using Python & Tableau
 
-An interactive data analysis project to explore pizza sales performance using **SQL**, **Python (Colab)**, and **Tableau**.  
+An interactive data analysis project to explore pizza sales performance using  **Python (Colab)**, and **Tableau**.  
 The project identifies key insights such as busiest hours, top-selling pizzas, and revenue patterns — helping optimize restaurant operations and marketing.
 
 ---
@@ -91,4 +91,5 @@ The project identifies key insights such as busiest hours, top-selling pizzas, a
 ---
 
 > ⭐ *If you find this project useful, give it a star — it motivates me to share more data projects like this!*
+
 
